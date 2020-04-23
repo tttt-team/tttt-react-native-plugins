@@ -1,0 +1,34 @@
+{
+  "name": "tttt-rn-rong-im",
+  "title": "Tttt Rn Rong Im",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/tttt-rn-rong-im.git",
+    "baseUrl": "https://github.com/github_account/tttt-rn-rong-im"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "yourname@email.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.4"
+  },
+  "devDependencies": {
+    "@babel/core": "7.7.0",
+    "react": "16.9.0",
+    "react-native": "0.61.4"
+  }
+}

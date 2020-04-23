@@ -1,0 +1,156 @@
+<resources>
+
+    <dimen name="alivc_player_info_seekbar_height">3dp</dimen>
+    <dimen name="alivc_player_info_seekbar_offset">8dp</dimen>
+    <dimen name="alivc_player_info_bar_height">46dp</dimen>
+
+
+
+    <dimen name="alivc_player_adv_picture_background_width">72dp</dimen>
+    <dimen name="alivc_palyer_adv_picture_background_height">24dp</dimen>
+
+
+    <dimen name="alivc_player_dialog_err_width">220dp</dimen>
+    <dimen name="alivc_player_dialog_err_height">120dp</dimen>
+
+    <dimen name="alivc_palyer_dialog_loading_width">200dp</dimen>
+    <dimen name="alivc_player_dialog_loading_height">200dp</dimen>
+
+
+    <dimen name="alivc_player_gesture_dialog_size">155dp</dimen>
+    <dimen name="alivc_player_dialog_netchange_width">280dp</dimen>
+    <dimen name="alivc_player_dialog_netchange_height">120dp</dimen>
+
+
+    <!--rate-->
+    <dimen name="alivc_player_rate_item_height">32dp</dimen>
+
+
+    <!--loading-->
+    <dimen name="alivc_player_loading_height">120dp</dimen>
+    <dimen name="alivc_player_loading_width">130dp</dimen>
+
+
+    <!--download-->
+    <dimen name="alivc_player_download_dialog_height">275sp</dimen>
+
+
+    <dimen name="alivc_common_size_icon_20">20dp</dimen>
+    <dimen name="alivc_common_radius_6">6dp</dimen>
+    <dimen name="alivc_common_radius_5">5dp</dimen>
+    <dimen name="alivc_common_radius_12">12dp</dimen>
+    <dimen name="alivc_common_line_1dp">1dp</dimen>
+    <dimen name="alivc_common_radius_4">4dp</dimen>
+    <dimen name="alivc_common_size_icon_5">5dp</dimen>
+    <dimen name="alivc_common_padding_1">1dp</dimen>
+    <dimen name="alivc_common_padding_2">2dp</dimen>
+    <dimen name="alivc_common_radius_2">2dp</dimen>
+
+    <dimen name="alivc_common_height_tittle_48">48dp</dimen>
+    <dimen name="alivc_common_padding_10">10dp</dimen>
+    <dimen name="alivc_common_font_16">16sp</dimen>
+    <dimen name="alivc_common_height_group_40">40dp</dimen>
+    <dimen name="alivc_common_height_group_70">70dp</dimen>
+    <dimen name="alivc_common_height_group_50">50dp</dimen>
+    <dimen name="alivc_common_padding_20">20dp</dimen>
+    <dimen name="alivc_common_margin_100">100dp</dimen>
+    <dimen name="alivc_common_height_group_200">200dp</dimen>
+    <dimen name="alivc_common_height_tv_50">50dp</dimen>
+
+    <dimen name="alivc_common_font_7">7sp</dimen>
+    <dimen name="alivc_common_font_10">10sp</dimen>
+    <dimen name="alivc_common_font_11">11sp</dimen>
+    <dimen name="alivc_common_font_12">12sp</dimen>
+    <dimen name="alivc_common_font_14">14sp</dimen>
+    <dimen name="alivc_common_font_13">13sp</dimen>
+    <dimen name="alivc_common_font_15">15sp</dimen>
+    <dimen name="alivc_common_font_17">17sp</dimen>
+    <dimen name="alivc_common_font_18">18sp</dimen>
+    <dimen name="alivc_common_font_20">20sp</dimen>
+    <dimen name="alivc_common_font_22">22sp</dimen>
+    <dimen name="alivc_common_font_25">25sp</dimen>
+    <dimen name="alivc_common_font_28">28sp</dimen>
+    <dimen name="alivc_common_font_29">29sp</dimen>
+    <dimen name="alivc_common_font_32">32sp</dimen>
+
+    <dimen name="alivc_common_margin_N10">-10dp</dimen>
+    <dimen name="alivc_common_margin_2">2dp</dimen>
+    <dimen name="alivc_common_margin_3">3dp</dimen>
+    <dimen name="alivc_common_margin_4">4dp</dimen>
+    <dimen name="alivc_common_margin_5">5dp</dimen>
+    <dimen name="alivc_common_margin_6">6dp</dimen>
+    <dimen name="alivc_common_margin_8">8dp</dimen>
+    <dimen name="alivc_common_margin_10">10dp</dimen>
+    <dimen name="alivc_common_margin_12">12dp</dimen>
+    <dimen name="alivc_common_margin_15">15dp</dimen>
+    <dimen name="alivc_common_margin_16">16dp</dimen>
+    <dimen name="alivc_common_margin_18">18dp</dimen>
+    <dimen name="alivc_common_margin_20">20dp</dimen>
+    <dimen name="alivc_common_margin_25">25dp</dimen>
+    <dimen name="alivc_common_margin_21">21dp</dimen>
+    <dimen name="alivc_common_margin_30">30dp</dimen>
+    <dimen name="alivc_common_margin_34">34dp</dimen>
+    <dimen name="alivc_common_margin_37">37dp</dimen>
+    <dimen name="alivc_common_margin_38">38dp</dimen>
+    <dimen name="alivc_common_margin_40">40dp</dimen>
+    <dimen name="alivc_common_margin_43">43dp</dimen>
+    <dimen name="alivc_common_margin_45">45dp</dimen>
+    <dimen name="alivc_common_margin_48">48dp</dimen>
+    <dimen name="alivc_common_margin_50">50dp</dimen>
+    <dimen name="alivc_common_margin_55">55dp</dimen>
+    <dimen name="alivc_common_margin_60">60dp</dimen>
+    <dimen name="alivc_common_margin_64">64dp</dimen>
+    <dimen name="alivc_common_margin_74">74dp</dimen>
+    <dimen name="alivc_common_margin_85">85dp</dimen>
+    <dimen name="alivc_common_margin_88">88dp</dimen>
+    <dimen name="alivc_common_margin_94">94dp</dimen>
+    <dimen name="alivc_common_margin_130">130dp</dimen>
+    <dimen name="alivc_common_margin_142">142dp</dimen>
+    <dimen name="alivc_common_margin_175">175dp</dimen>
+
+    <dimen name="alivc_common_keyline_15">15dp</dimen>
+    <dimen name="alivc_common_keyline_20">20dp</dimen>
+    <dimen name="alivc_common_keyline_tittle_bar_left">15dp</dimen>
+    <dimen name="alivc_common_keyline_tittle_bar_right">15dp</dimen>
+    <dimen name="alivc_common_keyline_32">32dp</dimen>
+
+
+    <dimen name="alivc_common_padding_4">4dp</dimen>
+    <dimen name="alivc_common_padding_5">5dp</dimen>
+    <dimen name="alivc_common_padding_6">6dp</dimen>
+    <dimen name="alivc_common_padding_7">7dp</dimen>
+    <dimen name="alivc_common_padding_8">8dp</dimen>
+    <dimen name="alivc_common_padding_9">9dp</dimen>
+    <dimen name="alivc_common_padding_12">12dp</dimen>
+    <dimen name="alivc_common_padding_13">13dp</dimen>
+    <dimen name="alivc_common_padding_14">14dp</dimen>
+    <dimen name="alivc_common_padding_15">15dp</dimen>
+    <dimen name="alivc_common_padding_16">16dp</dimen>
+    <dimen name="alivc_common_padding_16_5">16.5dp</dimen>
+    <dimen name="alivc_common_padding_18">18dp</dimen>
+    <dimen name="alivc_common_padding_25">25dp</dimen>
+    <dimen name="alivc_common_padding_32">32dp</dimen>
+    <dimen name="alivc_common_padding_50">50dp</dimen>
+
+    <dimen name="alivc_common_line_1px">1px</dimen>
+    <dimen name="alivc_common_line_1_5">1.5dp</dimen>
+    <dimen name="alivc_common_line_2dp">2dp</dimen>
+    <dimen name="alivc_common_line_3dp">3dp</dimen>
+
+    <dimen name="alivc_common_height_group_15">15dp</dimen>
+
+    <dimen name="alivc_common_width_group_82">82dp</dimen>
+
+    <dimen name="alivc_common_height_group_30">30dp</dimen>
+
+    <dimen name="alivc_common_size_progress_28">28dp</dimen>
+
+    <dimen name="alivc_common_height_group_68">60dp</dimen>
+
+    <dimen name="alivc_common_width_icon_120">120dp</dimen>
+
+    <dimen name="alivc_common_width_group_300">300dp</dimen>
+    <dimen name="alivc_common_height_icon_68">68dp</dimen>
+    <dimen name="alivc_common_height_tv_30">30dp</dimen>
+    <dimen name="alivc_common_size_icon_42">42dp</dimen>
+</resources>
