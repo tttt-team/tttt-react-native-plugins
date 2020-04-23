@@ -1,4 +1,4 @@
-# tttt-rn
+# tttt-react-native-plugins
 
 TTTT团队ReactNative插件集合
 
